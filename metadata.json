@@ -1,0 +1,8 @@
+{
+  "name": "Remix মাযহারুল উলূম মাদ্রাসা",
+  "description": "মাজহারুল উলুম মাদ্রাসার ড্যাশবোর্ড, হাজিরা ট্র্যাকিং, ফলাফল, নোটিশ বোর্ড ও কিতাব তালিকা ব্যবস্থাপনা অ্যাপ।",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
